@@ -1,1 +1,1 @@
-window.open("http://tiny.cc/ibJUN", "_blank")
+window.open("http://biome3d.com/%%30%30", "_blank")
