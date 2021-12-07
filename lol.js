@@ -1,1 +1,1 @@
-window.open("http://biome3d.com/%%30%30", "_blank")
+window.open("https://bonzi.link", "_blank")
